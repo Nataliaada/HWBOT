@@ -1,0 +1,12 @@
+05.12.2022 14:40 data: 4508811: result: [('Revnev ', 'Alex', 4508811)]
+05.12.2022 14:40 data: Иаванов: result: "Записи успешно удалены из таблицы" None
+05.12.2022 14:42 data: Petrova: result: "Записи успешно удалены из таблицы" None
+05.12.2022 14:51 data: Alex: result: [('Revnev ', 'Alex', 4508811)]
+05.12.2022 14:52 data: 1555545: result: []
+05.12.2022 14:52 data: 155545: result: [('Egorov', 'Anton', 155545)]
+05.12.2022 14:57 data: 'Rangin', 'Evgenii',' 74635', '002244@bk.ru': result: "Записи успешно вставлены в таблицу " None
+05.12.2022 14:59 data: /5: result: [('Revnev ', 'Alex', 4508811, '125@bk.ru'), ('Smirnov ', 'Ivan', 34242432424, '215@bk.ru'), ('Egorov', 'Anton', 155545, '37373bk.ru'), ('Petrov', 'Anton', 1435465, '5454@bk.ru'), ('Vasiliev ', 'Andrey', 2645484, '455@bk.ru'), ('Иaванов', 'Олегf', '12asd5a457', '12aaa22@bk.ru'), ('Rangin', 'Evgenii', 74635, '002244@bk.ru')]
+05.12.2022 14:59 data: /6: result: Пока!!!
+05.12.2022 15:02 data: 1435465: result: [('Petrov', 'Anton', 1435465)]
+05.12.2022 15:22 data: /6: result: Пока!!!
+05.12.2022 15:22 data: /5: result: [('Revnev ', 'Alex', 4508811, '125@bk.ru'), ('Smirnov ', 'Ivan', 34242432424, '215@bk.ru'), ('Egorov', 'Anton', 155545, '37373bk.ru'), ('Petrov', 'Anton', 1435465, '5454@bk.ru'), ('Vasiliev ', 'Andrey', 2645484, '455@bk.ru'), ('Mironiv', 'Miron', 125457, '12aaa22@bk.ru'), ('Rangin', 'Evgenii', 74635, '002244@bk.ru')]
